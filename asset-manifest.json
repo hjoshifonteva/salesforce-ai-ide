@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salesforce-ide-preview/static/css/main.e6c13ad2.css",
+    "main.js": "/salesforce-ide-preview/static/js/main.17bade13.js",
+    "static/js/453.064d4a4e.chunk.js": "/salesforce-ide-preview/static/js/453.064d4a4e.chunk.js",
+    "index.html": "/salesforce-ide-preview/index.html",
+    "main.e6c13ad2.css.map": "/salesforce-ide-preview/static/css/main.e6c13ad2.css.map",
+    "main.17bade13.js.map": "/salesforce-ide-preview/static/js/main.17bade13.js.map",
+    "453.064d4a4e.chunk.js.map": "/salesforce-ide-preview/static/js/453.064d4a4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.17bade13.js"
+  ]
+}
